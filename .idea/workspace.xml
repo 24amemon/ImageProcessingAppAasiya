@@ -4,19 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6efae448-4a55-4123-9f9f-39e98a74ddb4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ImageWrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SomePanel.java" afterDir="false" />
+    <list default="true" id="6efae448-4a55-4123-9f9f-39e98a74ddb4" name="Changes" comment="refactored! (interfaces, abstract classes, etc)&#10;&#10;new interface is called &quot;Info&quot; and prints info on a rotating panel that has been clicked">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ImageProcessingApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ImageProcessingApp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Clickable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Clickable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ContrastedPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContrastedPanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Drawable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Drawable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Panel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Panel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/RotatingPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RotatingPanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TintedPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TintedPanel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +79,14 @@
       <option name="presentableId" value="Default" />
       <updated>1661793698960</updated>
     </task>
+    <task id="LOCAL-00001" summary="refactored! (interfaces, abstract classes, etc)&#10;&#10;new interface is called &quot;Info&quot; and prints info on a rotating panel that has been clicked">
+      <created>1664063254653</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664063254653</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,5 +99,19 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="refactored! (interfaces, abstract classes, etc)&#10;&#10;new interface is called &quot;Info&quot; and prints info on a rotating panel that has been clicked" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactored! (interfaces, abstract classes, etc)&#10;&#10;new interface is called &quot;Info&quot; and prints info on a rotating panel that has been clicked" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

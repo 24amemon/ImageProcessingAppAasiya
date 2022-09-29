@@ -1,6 +1,5 @@
 import processing.core.PImage;
 
-import static processing.core.PApplet.print;
 
 public class Panel extends ImageWrapper implements Drawable {
     //private PImage img;

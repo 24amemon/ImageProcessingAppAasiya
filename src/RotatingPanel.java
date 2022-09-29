@@ -48,10 +48,10 @@ public class RotatingPanel extends Panel implements Clickable, Info {
     public void info(int _w, int _h){
         if(count == 0){
             count++;
-            print("These are PNGs of fire extinguishers, sized " + getWidth() + " by " + getHeight() + ". Thanks for making them spin! ");
+            System.out.println("These are PNGs of fire extinguishers, sized " + getWidth() + " by " + getHeight() + ". Thanks for making them spin! ");
         }
         if(count > 0){
-            print("Again! ");
+            System.out.println("Again! ");
         }
 
     }
